@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="QCAR_SDK_ROOT.Vuforia">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/QCAR_SDK_ROOT/Vuforia.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

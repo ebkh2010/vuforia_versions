@@ -1,0 +1,83 @@
+[
+    {
+        "outputFile": "/Users/ebi/Documents/vuforia-samples-advanced-android-6-2-10/ImageTargetsNative-6-2-10/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "/Users/ebi/Documents/vuforia-samples-advanced-android-6-2-10/ImageTargetsNative-6-2-10/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 41,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 42,
+                    "endOffset": 135
+                },
+                "from": {
+                    "file": "/Users/ebi/Documents/vuforia-samples-advanced-android-6-2-10/ImageTargetsNative-6-2-10/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 42,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 140,
+                    "endColumn": 46,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/Users/ebi/Documents/vuforia-samples-advanced-android-6-2-10/ImageTargetsNative-6-2-10/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 46,
+                        "endOffset": 227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endColumn": 43,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "/Users/ebi/Documents/vuforia-samples-advanced-android-6-2-10/ImageTargetsNative-6-2-10/app/src/main/res/values-sw600dp/dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 141,
+                        "endColumn": 43,
+                        "endOffset": 180
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pic5" size="1000.000000 667.000000" />
+    <ImageTarget name="pic16" size="1000.000000 666.000000" />
+    <ImageTarget name="pic15" size="1000.000000 666.000000" />
+    <ImageTarget name="pic14" size="1000.000000 666.000000" />
+    <ImageTarget name="pic13" size="1000.000000 666.000000" />
+    <ImageTarget name="pic12" size="1000.000000 666.000000" />
+    <ImageTarget name="pic11" size="1000.000000 666.000000" />
+    <ImageTarget name="pic10" size="1000.000000 666.000000" />
+    <ImageTarget name="pic9" size="1000.000000 667.000000" />
+    <ImageTarget name="pic8" size="1000.000000 667.000000" />
+    <ImageTarget name="pic7" size="1000.000000 667.000000" />
+    <ImageTarget name="pic6" size="1000.000000 667.000000" />
+    <ImageTarget name="pic4" size="1000.000000 667.000000" />
+    <ImageTarget name="pic3" size="1000.000000 667.000000" />
+    <ImageTarget name="pic2" size="1000.000000 667.000000" />
+    <ImageTarget name="pic1" size="1000.000000 666.666687" />
+  </Tracking>
+</QCARConfig>
